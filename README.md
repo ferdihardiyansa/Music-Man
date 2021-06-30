@@ -1,4 +1,4 @@
-<h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
+<h1 align="centre">🎵 𝙛𝙚𝙧𝙙𝙞 𝙢𝙪𝙨𝙞𝙘 𝙗𝙤𝙩 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
