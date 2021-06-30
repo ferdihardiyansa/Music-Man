@@ -37,8 +37,8 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang ingin di Putar atau di Download.
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
 ┗━━━━━━━━━━━━━━
-❃ Managed With ❤ By {OWNER}
-❃ Thanks To [ferdi](@Ferdihardiyansa)
+❃ Managed With ❤ By {bocil epep}
+❃ Thanks To [ferdi](https://t.me/Ferdihardiyansa)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -95,7 +95,7 @@ def map(pos):
             [InlineKeyboardButton(text = 'Next »', callback_data = "help+2")]
         ]
     elif pos==len(tr.HELP_MSG)-1:
-        url = f"https://t.me/{SUPPORT_GROUP}"
+    
         return [
             [
                 InlineKeyboardButton(
@@ -182,11 +182,11 @@ async def reload(client: Client, message: Message):
       reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/{SUPPORT_GROUP}"
+                   
+                      
                     ),
                     InlineKeyboardButton(
-                        "Owner", url=f"https://t.me/mrismanaziz"
+                        "Owner", url="https://t.me/Ferdihardiyansa)
                     )
                 ]
             ]
